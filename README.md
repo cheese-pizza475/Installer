@@ -23,3 +23,7 @@ Use the program path from Option 3 for the tenth argument (including the program
 In the eleventh argument, the -NoTemp argument can be used optionally. When used, the installer will not be deleted automatically once the installation is complete[For Developers Only]
 
 Use InstallerControl.dll to change the percentage. Use (SendInstallerProgress(int progress);)
+
+[ADD]
+
+You can use a percentage slider with a user interface by using "installer_helper(USER).exe"
